@@ -4,6 +4,9 @@
 Desenvolvedor recém formado, minha paixão por softwares reside na possibilidade de tornar ideias em realidade através da programação e como tais ideias podem moldar uma sociedade.  
 </p>
 
+> “Low expectations are a self-fulfilling prophecy. If we aim high, we’ll get better results.”
+― Ted Chiang, Exhalation
+#
 ### 🏫 Education
 * Pós-graduação em Desenvolvimento Web Fullstack | (Anhanguera Educacional-AM)<br/>
 * Superior de Tecnologia em Análise e Desenvolvimento de Sistemas | (UNIP-AM)<br/>
