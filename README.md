@@ -1,7 +1,7 @@
-### Olá, eu sou o Andrew, desenvolvedor web fullstack!
+### Olá, eu sou o Andrew, desenvolvedor fullstack!
 #
 <p>
-Desenvolvedor recém formado, minha paixão por softwares reside na possibilidade de tornar ideias em realidade através da programação e como tais ideias podem moldar uma sociedade.  
+Recém formado, minha paixão por softwares reside na possibilidade de tornar ideias em realidade através da programação e como tais ideias podem moldar uma sociedade.  
 </p>
 
 > “Low expectations are a self-fulfilling prophecy. If we aim high, we’ll get better results.”
@@ -13,7 +13,7 @@ Desenvolvedor recém formado, minha paixão por softwares reside na possibilidad
 * Técnico em Manutenção e Suporte em Informatica | (IFAM-AM)<br/>
 
 ### 📚 Learnings and Hobbies
-* Atualmente estou estudando sobre Frameworks Web, com foco no Java Spring Boot, como funciona o gerenciamento de eventos simplificado, validação, ligação de dados, conversão de tipo e segurança integrada e recursos de teste;
+* Migrando do front-end para engenharia de dados.
 * Aficionado em 🎮 Games e 🎞️ filmes. Especialmente, sci-fi e terror, e em hard rock setentista e alternative rock.
 * Costumo ler bastante livros de fantasia e space opera.
 
@@ -25,10 +25,10 @@ Desenvolvedor recém formado, minha paixão por softwares reside na possibilidad
     <img align="Center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="Center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="Center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img align="Center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img align="Center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img align="Center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img align="Center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="Center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)">
+    <img align="Center" alt="Power Bi" src="(https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)">
+
+  
     
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
